@@ -1,19 +1,19 @@
 ---
 title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'The Hospital Amenities Data Analysis project uses R to process data and extract key insights.'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/project-2-img-1.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/project-2-img-2.png'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: R, OpenData, Tidyverse, OpenStreet, sf
+website: ''
+github: https://github.com/jonanfu/geo_estadistica/blob/main/actividad_final.md
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+The Hospital Amenities Data Analysis project aims to analyze and process data related to hospital amenities, utilizing R for data cleaning, visualization, and statistical modeling. By exploring key factors such as infrastructure, services, and facilities, the project seeks to extract valuable insights that can help improve healthcare services and resource allocation. Through a detailed analysis, patterns and trends are identified, providing a clearer understanding of hospital amenities and their impact on patient experience and operational efficiency.

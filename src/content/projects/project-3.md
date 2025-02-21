@@ -1,6 +1,6 @@
 ---
 title: 'Project 3'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'This project implements an ETL process orchestration using Apache Airflow to automate data extraction, transformation, and loading into a data warehouse, ensuring efficient and reliable task execution.'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
@@ -11,9 +11,9 @@ worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Airflow, Dag, BigQuery, PosgrestSql
+website: ''
+github: https://github.com/jonanfu/etl_airflow
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+This project involves the implementation of an ETL process using Apache Airflow to automate the extraction, transformation, and loading of data from various sources to a data warehouse. The workflow is designed to be efficient, scalable, and easy to monitor, integrating notifications and error handling to ensure robust and flawless execution.

@@ -1,19 +1,19 @@
 ---
 title: 'Project 4'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'A credit risk model was developed using Azure Machine Learning to predict default probabilities based on historical customer and transaction data.'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/project-4-portada.jpg'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/project-4-app.png'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Credit Risk, Azure Ml, Mlflow, Streamlit, Pandas, Numpy
+website: https://riskanalyzers.streamlit.app/
+github: https://github.com/JSEB99/azure-ml-projects/tree/main/projects/RiskAnalyzers_project
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+I developed a credit risk model using Azure Machine Learning, employing MLflow to track experiments and manage model versions. The model utilized logistic regression to predict the likelihood of credit default based on historical customer and transaction data. I used Scikit-learn for model training, evaluation, and fine-tuning, ensuring the model's performance met the desired accuracy and business requirements. The solution was deployed in a production environment for real-time risk assessments.
