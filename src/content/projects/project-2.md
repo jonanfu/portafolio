@@ -1,8 +1,8 @@
 ---
-title: 'Project 2'
+title: 'Analysis of hospital amenities'
 description: 'The Hospital Amenities Data Analysis project uses R to process data and extract key insights.'
 image:
-    url: '/GitHub.webp'
+    url: '/project-2-img-1.png'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/project-2-img-1.png'

@@ -1,8 +1,8 @@
 ---
-title: 'Project 1'
+title: 'DataVerse'
 description: 'DataVerse: Interactive & Efficient Chat'
 image:
-    url: '/GitHub.webp'
+    url: '/project-1-banner.png'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/project-1-banner.png'

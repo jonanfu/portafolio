@@ -1,8 +1,8 @@
 ---
-title: 'Project 4'
+title: 'Credit risk model'
 description: 'A credit risk model was developed using Azure Machine Learning to predict default probabilities based on historical customer and transaction data.'
 image:
-    url: '/GitHub.webp'
+    url: '/project-4-portada.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/project-4-portada.jpg'

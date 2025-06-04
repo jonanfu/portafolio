@@ -1,8 +1,8 @@
 ---
-title: 'Project 3'
+title: 'Orchestration with Apache Airflow'
 description: 'This project implements an ETL process orchestration using Apache Airflow to automate data extraction, transformation, and loading into a data warehouse, ensuring efficient and reliable task execution.'
 image:
-    url: '/GitHub.webp'
+    url: '/project-3-diagram.png'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/image-1.webp'
